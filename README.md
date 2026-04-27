@@ -96,6 +96,6 @@ cd Smart-Attendance-monitoring-system-FSD
 ## 👥 Team Members
 
 - **K. Mahitha** – Frontend Developer & UI Design
-- **S. Divya Sri** – UI Design & Styling
+- **Samanasa. Divya Sri** – UI Design & Styling
 - **Surekha** – Testing & Documentation
 - **Jaswanth** – JavaScript & Data
